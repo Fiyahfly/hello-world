@@ -1,0 +1,25 @@
+about_styles.css
+*{ box-sizing:border-box;}
+.container{
+	width:80%;
+	margin:0 auto;
+
+}.header h1 {
+	}text-align:center;
+	padding-bottom:20px;
+}
+.image{
+	display:inline-block;
+	.container{width:100%;}
+
+}
+.column{
+	display:inline-block;
+	  float:left;
+	  width:30%;
+	  padding:0 20px; 
+}
+.main-text
+	clear:both;
+	padding-top:60px
+}
