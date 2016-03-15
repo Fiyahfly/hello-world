@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <!-- Custom styles for this template go here -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+  <link rel="stylesheet" href="css/styles.css"> 
+  <link rel="stylesheet" href="css/index.css">
+  <a href="http://neurologist-bertie-51415.bitballoon.com/faq"><FAQ></a>
+  <a href="http://neurologist-bertie-51415.bitballoon.com/about"><About></a>
+  <a href="http://neurologist-bertie-51415.bitballoon.com/Contact"><Contact></a>
+  <title> Fiyahwurkz</title>
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    
+  
+</head>
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <body>
+   <div class="nav">
+      <ul class="nav navbar-nav">    
+            <li><a>Home</a>
+            <li><a>About</a></li>
+            <li><a>Contact</a></li>
+            <li><a>Work</a></li>
+            <li><a>FAQ</a></li>
+          </ul>
+           </div>
+              <div class="jumbotron">
+          <div class="container">
+      <h2>Intro</h2>
+      <p><strong>Hi How are you Nice To Meet You</strong></p>
+      <p>My Name is Krystal Vaughan I am a trendy friendly webdeveloper and owner of Fiyahwurkz Empire</p>
+      <p><strong>This is my first portfolio built by learning with careerfoundry.</strong></p>
+      <a href="https://fiyahwurkzempire.com">Learn More Here</a>
+    </div>
+  </div><!-- /jumbotron -->
+        
+
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+         <h2>Portfolio Concept</h2>
+          <p>To strive for Development excellence through hard work and dedication</p>
+            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+       </div>
+          
+        <div class="col-md-4">
+          <h2>Project Goals</h2>
+          <p>To learn how to create beautiful websites for my own company</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+       </div>
+       <!-- /col -->
+        <div class="col-md-4">
+          <h2>Course Goals</h2>
+          <p>To learn how to a to developer/business woman</p>
+          <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
+       </div><!-- /col -->
+    </div><!-- /row -->
+         <!-- /container -->
+
+      <hr>
+
+    <!-- 
+    ================================================== -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <!-- Can place script tags with JavaScript files here -->
+   
+  </body>
+</html>
