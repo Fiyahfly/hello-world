@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang "en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+</head>
+<div class="nav">
+        <ul class="nav navbar-nav">
+          <ul>
+            <li><a>Home</a>
+            <li><a>About</a></li>
+            <li><a>Contact</a></li>
+            <li><a>Work</a></li>
+            <li><a>FAQ</a></li>
+          </ul>
+          </div>
+<title>
+<h1>Contact Me</h1>
+</title>
+<div class="container">
+</div>
+<div class="jumbotron">
+</div>
+<div class="image">
+</div>
+<span class="glyphicon glyphicon-glyphicon-star"><p>Krystal Vaughan</p></span>
+</div>
+<p>Neptune New Jersey</p>
+</div>
+<p>Kvaughan@gmail.com</p>
+</div>
+<p>848-469-1817</p>
+</div>
+
+</html>
