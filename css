@@ -1,25 +1,31 @@
-about_styles.css
-*{ box-sizing:border-box;}
-.container{
-	width:80%;
-	margin:0 auto;
+    .jumbotron{
+     background-image:url('../img/fiyahwurkz.jpg');
+     background-size: cover;
+     background-color:#cdcdcd
+ }
+ 
+     .jumbotron p {
+     	color:#c92424;
+     }
+     h1,
+     h2
+     h3{font-family: Futura,Helvetica,Arial,sans-serif;}
+}
+.intro p{ font-family: Futura,Helvetica,Arial,sans-serif
+	  font-weight:100;
+      font-size:3em;}
+p {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    }
+  .container{
+    width:80%;
+    margin:0 auto;
+    padding:50px;
+}
 
-}.header h1 {
-	}text-align:center;
-	padding-bottom:20px;
-}
-.image{
-	display:inline-block;
-	.container{width:100%;}
 
-}
-.column{
-	display:inline-block;
-	  float:left;
-	  width:30%;
-	  padding:0 20px; 
-}
-.main-text
-	clear:both;
-	padding-top:60px
-}
+                                                            
+
+
+
+/*Typography*/
