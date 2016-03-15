@@ -1,0 +1,67 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+	<meta charset='UTF-8'>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  
+	<link rel="stylesheet" href="css/about_styles.css">
+
+    </head>
+  
+
+   <title>About Me</title>
+
+<body> 
+<div class="nav">
+        <ul class="nav navbar-nav">
+          <ul>
+            <li><a>Home</a>
+            <li><a>About</a></li>
+            <li><a>Contact</a></li>
+            <li><a>Work</a></li>
+            <li><a>FAQ</a></li>
+          </ul>
+          </div>
+
+	<div class="header">
+
+		<h1>Hello Friend</h1>
+<div/>
+  <div class="container">
+  </div>
+  <!--end container-->
+  
+  <div class="header">
+   
+	</div>
+
+       <!--end header--> 
+      <div class="intro column"> 
+        <h3>Introduction</h3> 
+        <p>Master Web Geek</p> 
+       </div> 
+      <!--intro close--> 
+      <div class="skills column"> 
+        <h3>Skills</h3> 
+        <p>Detailed oriented</p> 
+        <!--skills close--> 
+        <ul id="skill-list"> 
+          <li>Advertising</li> 
+           <li>Social Media</li>
+           <li>Social Networking</li>
+        </ul> 
+      </div> 
+
+      <div class="main text">
+<h3>My Story</h3>
+<p>I am 28 Years old with a passion for web development and design</p>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</body>
+</html>
