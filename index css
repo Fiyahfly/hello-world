@@ -1,0 +1,25 @@
+ .nav {
+    background-color: black;
+    position:fixed;
+    display: inline-block;
+    width: 100%;
+}
+ .nav ul li a {
+text-transform: uppercase;
+letter-spacing: 0.05em;
+top: 0;
+padding: 20px,10px,20px;   
+float: right; 
+transition: color 600ms;
+-webkit-transition:color 600ms;
+}
+
+ .nav a:hover{
+       color: #ff0;
+       text-decoration: none;
+a } 
+       
+
+
+
+	/*Typography*/ 
